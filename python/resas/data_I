@@ -1,0 +1,164 @@
+[
+  {
+    "prefName": "岡山県",
+    "data": [
+      {
+        "labor": 0.6745,
+        "simcCode": "09",
+        "value": 0.8139,
+        "simcName": "食料品製造業",
+        "employee": 0.9599
+      },
+      {
+        "labor": 0.5773,
+        "simcCode": "10",
+        "value": 0.2931,
+        "simcName": "飲料・たばこ・飼料製造業",
+        "employee": 0.4038
+      },
+      {
+        "labor": 1.2546,
+        "simcCode": "11",
+        "value": 11.2576,
+        "simcName": "繊維工業",
+        "employee": 7.1374
+      },
+      {
+        "labor": 1.6227,
+        "simcCode": "12",
+        "value": 0.9478,
+        "simcName": "木材・木製品製造業（家具を除く）",
+        "employee": 0.4646
+      },
+      {
+        "labor": 1.1496,
+        "simcCode": "13",
+        "value": 0.8144,
+        "simcName": "家具・装備品製造業",
+        "employee": 0.5636
+      },
+      {
+        "labor": 0.5171,
+        "simcCode": "14",
+        "value": 0.6625,
+        "simcName": "パルプ・紙・紙加工品製造業",
+        "employee": 1.0192
+      },
+      {
+        "labor": 0.816,
+        "simcCode": "15",
+        "value": 0.648,
+        "simcName": "印刷・同関連業",
+        "employee": 0.6317
+      },
+      {
+        "labor": 1.1054,
+        "simcCode": "16",
+        "value": 0.3183,
+        "simcName": "化学工業",
+        "employee": 0.229
+      },
+      {
+        "labor": 0.897,
+        "simcCode": "18",
+        "value": 1.7598,
+        "simcName": "プラスチック製品製造業（別掲を除く）",
+        "employee": 1.5607
+      },
+      {
+        "labor": 0.7185,
+        "simcCode": "19",
+        "value": 5.0301,
+        "simcName": "ゴム製品製造業",
+        "employee": 5.5689
+      },
+      {
+        "labor": 0.8211,
+        "simcCode": "20",
+        "value": 0.7685,
+        "simcName": "なめし革・同製品・毛皮製造業",
+        "employee": 0.7446
+      },
+      {
+        "labor": 1.0427,
+        "simcCode": "21",
+        "value": 0.9488,
+        "simcName": "窯業・土石製品製造業",
+        "employee": 0.7238
+      },
+      {
+        "labor": 1.0411,
+        "simcCode": "22",
+        "value": 2.7162,
+        "simcName": "鉄鋼業",
+        "employee": 2.0753
+      },
+      {
+        "labor": 0.5471,
+        "simcCode": "23",
+        "value": 0.1876,
+        "simcName": "非鉄金属製造業",
+        "employee": 0.2728
+      },
+      {
+        "labor": 1.3479,
+        "simcCode": "24",
+        "value": 1.2856,
+        "simcName": "金属製品製造業",
+        "employee": 0.7587
+      },
+      {
+        "labor": 0.7046,
+        "simcCode": "25",
+        "value": 0.2528,
+        "simcName": "はん用機械器具製造業",
+        "employee": 0.2854
+      },
+      {
+        "labor": 0.8431,
+        "simcCode": "26",
+        "value": 0.7947,
+        "simcName": "生産用機械器具製造業",
+        "employee": 0.7498
+      },
+      {
+        "labor": 0.3069,
+        "simcCode": "27",
+        "value": 0.024,
+        "simcName": "業務用機械器具製造業",
+        "employee": 0.0623
+      },
+      {
+        "labor": 1.1908,
+        "simcCode": "28",
+        "value": 0.0994,
+        "simcName": "電子部品・デバイス・電子回路製造業",
+        "employee": 0.0664
+      },
+      {
+        "labor": 0.3389,
+        "simcCode": "29",
+        "value": 0.1282,
+        "simcName": "電気機械器具製造業",
+        "employee": 0.3009
+      },
+      {
+        "labor": 0.8984,
+        "simcCode": "31",
+        "value": 1.1571,
+        "simcName": "輸送用機械器具製造業",
+        "employee": 1.0246
+      },
+      {
+        "labor": 0.8879,
+        "simcCode": "32",
+        "value": 0.9245,
+        "simcName": "その他の製造業",
+        "employee": 0.8282
+      }
+    ],
+    "prefCode": 33,
+    "sicCode": "E",
+    "sicName": "製造業"
+  }
+]
